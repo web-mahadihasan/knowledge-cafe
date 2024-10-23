@@ -46,7 +46,10 @@ const Blogs = ({ blogs, handleBookmark, handleMarkReadBtn, isBookmarksActive }) 
 };
 
 Blogs.propTypes = {
-  blogs: PropTypes.object.isRequired
+  blogs: PropTypes.object.isRequired,
+  handleBookmark: PropTypes.func.isRequired,
+  handleMarkReadBtn: PropTypes.func.isRequired,
+  isBookmarksActive: PropTypes.array.isRequired
 };
 
 export default Blogs

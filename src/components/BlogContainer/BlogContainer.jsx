@@ -37,7 +37,9 @@ const BlogContainer = ({ handleBookmark, handleMarkReadBtn, isBookmarksActive })
 };
 
 BlogContainer.propTypes = {
-
-}
+  handleBookmark: PropTypes.func.isRequired,
+  handleMarkReadBtn: PropTypes.func.isRequired,
+  isBookmarksActive: PropTypes.array.isRequired
+};
 
 export default BlogContainer

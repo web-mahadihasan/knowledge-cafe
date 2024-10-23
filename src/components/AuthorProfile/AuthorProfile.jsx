@@ -42,8 +42,10 @@ const AuthorProfile = ({ blogsData, handleBookmark, isBookmarksActive }) => {
 };
 
 AuthorProfile.propTypes = {
-
-}
+  blogsData: PropTypes.object.isRequired,
+  handleBookmark: PropTypes.func.isRequired,
+  isBookmarksActive: PropTypes.array.isRequired,
+};
 
 export default AuthorProfile
 {/*  */}
