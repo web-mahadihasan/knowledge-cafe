@@ -1,0 +1,136 @@
+{
+  "status": true,
+  "message": "successfully fetched all the pets data",
+  "blogs": [
+  {
+    "id": 1,
+    "title": "Mastering ES6 for JavaScript Developers",
+    "blog_img": "https://i.ibb.co.com/WvC06gT/blog6.jpg",
+    "author": {
+      "name": "Tamara Barnes",
+      "author_img": "https://i.ibb.co.com/cC3LrXq/person2.jpg"
+    },
+    "reading_time": 9,
+    "posted_date": "04 Oct 2024 (18 days ago)",
+    "description": "Learn all about the new features of ES6 and how to use them effectively in your JavaScript code.",
+    "hashtags": ["#JavaScript", "#ES6", "#ECMAScript"]
+  },
+  {
+    "id": 2,
+    "title": "Advanced React Patterns for Scalable Apps",
+    "blog_img": "https://i.ibb.co.com/jvD3XDB/blog8.jpg",
+    "author": {
+      "name": "Ricardo Morris",
+      "author_img": "https://i.ibb.co.com/4pdFyBh/person999.jpg"
+    },
+    "reading_time": 3,
+    "posted_date": "20 Oct 2024 (2 days ago)",
+    "description": "Explore advanced patterns in React that will help you scale your web applications effectively.",
+    "hashtags": ["#React", "#Frontend", "#WebDevelopment"]
+  },
+  {
+    "id": 3,
+    "title": "Next.js: Building Fast and Dynamic Web Apps",
+    "blog_img": "https://i.ibb.co.com/YQ3gGbv/blog2.jpg",
+    "author": {
+      "name": "Diana Mendez",
+      "author_img": "https://i.ibb.co.com/4YzqMFh/person100.jpg"
+    },
+    "reading_time": 6,
+    "posted_date": "14 Oct 2024 (8 days ago)",
+    "description": "A deep dive into Next.js, exploring its features and how it can help build fast web applications.",
+    "hashtags": ["#NextJS", "#React", "#DynamicWebApps"]
+  },
+  {
+    "id": 4,
+    "title": "How to Become a Pro Full-Stack Developer",
+    "blog_img": "https://i.ibb.co.com/BLDM5x8/blog10.jpg",
+    "author": {
+      "name": "Devon Rojas",
+      "author_img": "https://i.ibb.co.com/sg9bcmW/person.jpg"
+    },
+    "reading_time": 9,
+    "posted_date": "18 Oct 2024 (4 days ago)",
+    "description": "An essential guide to mastering both frontend and backend development as a full-stack developer.",
+    "hashtags": ["#FullStack", "#Backend", "#Frontend"]
+  },
+  {
+    "id": 5,
+    "title": "Effective Communication Skills for Developers",
+    "blog_img": "https://i.ibb.co.com/ftKvXVc/blog9.jpg",
+    "author": {
+      "name": "Terri Smith",
+      "author_img": "https://i.ibb.co.com/PYSc4Fj/person3.jpg"
+    },
+    "reading_time": 4,
+    "posted_date": "15 Oct 2024 (7 days ago)",
+    "description": "Learn how to effectively communicate your ideas and collaborate as a developer.",
+    "hashtags": ["#DeveloperSkills", "#Communication", "#Collaboration"]
+  },
+  {
+    "id": 6,
+    "title": "Best Practices for Clean and Maintainable JavaScript Code",
+    "blog_img": "https://i.ibb.co.com/PrffC5F/blog4.jpg",
+    "author": {
+      "name": "John Doe",
+      "author_img": "https://i.ibb.co.com/x8KVmrn/person4.jpg"
+    },
+    "reading_time": 7,
+    "posted_date": "10 Oct 2024 (12 days ago)",
+    "description": "Write clean, concise, and maintainable JavaScript code to improve productivity.",
+    "hashtags": ["#CleanCode", "#JavaScript", "#BestPractices"]
+  },
+  {
+    "id": 7,
+    "title": "How to Build Large Scale Apps with Next.js",
+    "blog_img": "https://i.ibb.co.com/0KddLS2/blog5.png",
+    "author": {
+      "name": "Helen Davis",
+      "author_img": "https://i.ibb.co.com/G5GNSM6/person5.jpg"
+    },
+    "reading_time": 6,
+    "posted_date": "12 Oct 2024 (10 days ago)",
+    "description": "Building robust and scalable applications using Next.js.",
+    "hashtags": ["#NextJS", "#Scalability", "#WebDevelopment"]
+  },
+  {
+    "id": 8,
+    "title": "Understanding JavaScript's Event Loop",
+    "blog_img": "https://i.ibb.co.com/6sWtbRM/blog1.jpg",
+    "author": {
+      "name": "Jacqueline Hernandez",
+      "author_img": "https://i.ibb.co.com/MpgC3kH/person6.jpg"
+    },
+    "reading_time": 5,
+    "posted_date": "30 Sep 2024 (22 days ago)",
+    "description": "Key concepts of JavaScript's event loop and asynchronous programming.",
+    "hashtags": ["#JavaScript", "#EventLoop", "#AsyncProgramming"]
+  },
+  {
+    "id": 9,
+    "title": "A Roadmap to Becoming a Good Programmer",
+    "blog_img": "https://i.ibb.co.com/V3j7nXY/blog3.png",
+    "author": {
+      "name": "Andrea Garcia",
+      "author_img": "https://i.ibb.co.com/1Rkp65K/person88.jpg"
+    },
+    "reading_time": 7,
+    "posted_date": "13 Oct 2024 (9 days ago)",
+    "description": "Your guide to mastering programming and developing essential skills.",
+    "hashtags": ["#Programming", "#Learning", "#Developer"]
+  },
+  {
+    "id": 10,
+    "title": "How to Balance Backend and Frontend in Full-Stack Development",
+    "blog_img": "https://i.ibb.co.com/0QLm05Y/blog7.jpg",
+    "author": {
+      "name": "Linda Reid",
+      "author_img": "https://i.ibb.co.com/MpgC3kH/person6.jpg"
+    },
+    "reading_time": 8,
+    "posted_date": "09 Oct 2024 (13 days ago)",
+    "description": "A guide to balancing backend and frontend tasks in full-stack development.",
+    "hashtags": ["#FullStack", "#Backend", "#Frontend"]
+  }
+]
+}
